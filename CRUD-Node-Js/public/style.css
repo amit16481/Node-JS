@@ -1,0 +1,11 @@
+.post {
+    background-color: aqua;
+    margin-bottom: 20px; 
+    padding: 10px;
+}
+.heading {
+    margin: 0; padding: 0; margin-bottom: 10px;
+}
+.detail {
+    margin: 0; padding: 0; 
+}
